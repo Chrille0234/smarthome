@@ -1,0 +1,23 @@
+.temperatur{
+    position: absolute;
+    bottom: 0px;
+    right: 2rem;
+
+    margin: 0%;
+
+    font-size: 5em;
+}
+.bedroom{
+    width: 500px;
+}
+
+.bedroomCam{
+    aspect-ratio: 16/9;
+    width: 500px;
+
+    border-radius: 1em;
+}
+.bedroom h1{
+    position: relative;
+    text-align: center;
+}
